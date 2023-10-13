@@ -8,6 +8,9 @@
 
    ![image](https://github.com/TingoCarlos08/Taller01-Ramas/assets/107369011/5e8b5aa9-3df5-4164-a6c5-0fc973c86156)
 
+### 2. Integrante 2 (Leonel Cabrera Andrade):
+[![Captura-de-pantalla-2023-10-12-224452.png](https://i.postimg.cc/zGJCT3vM/Captura-de-pantalla-2023-10-12-224452.png)](https://postimg.cc/MvFfS6yb)
+
 ### 3. Integrante 3 (Emily Valarezo Plaza):
 [![Screen-Shot-2023-10-12-at-8-42-02-AM.png](https://i.postimg.cc/xTRRzCtY/Screen-Shot-2023-10-12-at-8-42-02-AM.png)](https://postimg.cc/1f8wxykY)
 
